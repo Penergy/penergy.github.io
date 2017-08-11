@@ -5,18 +5,56 @@
     
   <url>
     <loc>http://azure-devops.com/2017/08/09/533-series-1/</loc>
-    <lastmod>2017-08-11T05:16:41.542Z</lastmod>
+    <lastmod>2017-08-11T05:29:13.009Z</lastmod>
     <data>
         <display>
         <title>Azure 533实验1-storage, backup, and recovery services</title>
         <pubTime>2017-08-09T06:28:06.000Z</pubTime>
         
-        <tag>azure;MCSA;MCSE</tag>
+        <tag>azure</tag>
+         
+        <tag>Microsoft</tag>
+         
+        <tag>MCSA</tag>
+         
+        <tag>MCSE</tag>
+         
+        <tag>微软</tag>
          
          
            
              
               <breadCrumb title="Azure 533" url="http://azure-devops.com/categories/Azure-533/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://azure-devops.com/2017/08/09/Azure-Stack-Series/</loc>
+    <lastmod>2017-08-11T05:29:07.729Z</lastmod>
+    <data>
+        <display>
+        <title>Azure Stack 深入浅出系列文章</title>
+        <pubTime>2017-08-09T06:28:36.000Z</pubTime>
+        
+        <tag>azure Stack</tag>
+         
+        <tag>azure</tag>
+         
+        <tag>Microsoft</tag>
+         
+        <tag>MCSA</tag>
+         
+        <tag>MCSE</tag>
+         
+        <tag>微软</tag>
+         
+         
+           
+             
+              <breadCrumb title="Azure Stack深入浅出系列" url="http://azure-devops.com/categories/Azure-Stack%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%B3%BB%E5%88%97/"/>
           
         </display>
     </data>
@@ -37,26 +75,6 @@
            
              
               <breadCrumb title="随感" url="http://azure-devops.com/categories/%E9%9A%8F%E6%84%9F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://azure-devops.com/2017/08/09/Azure-Stack-Series/</loc>
-    <lastmod>2017-08-10T02:27:00.941Z</lastmod>
-    <data>
-        <display>
-        <title>Azure Stack 深入浅出系列文章</title>
-        <pubTime>2017-08-09T06:28:36.000Z</pubTime>
-        
-        <tag>azure Stack</tag>
-         
-         
-           
-             
-              <breadCrumb title="Azure Stack深入浅出系列" url="http://azure-devops.com/categories/Azure-Stack%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%B3%BB%E5%88%97/"/>
           
         </display>
     </data>
