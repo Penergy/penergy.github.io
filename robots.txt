@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.azure-devops.com/sitemap.xml
-Sitemap: http://www.azure-devops.com/baidusitemap.xml
+Sitemap: http://azure-devops.com/sitemap.xml
+Sitemap: http://azure-devops.com/baidusitemap.xml
