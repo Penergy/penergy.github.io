@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://azure-devops.com/2017/08/09/533-series-1/</loc>
+    <lastmod>2017-08-11T03:27:06.083Z</lastmod>
+    <data>
+        <display>
+        <title>Azure 533实验1-storage, backup, and recovery services</title>
+        <pubTime>2017-08-09T06:28:06.000Z</pubTime>
+        
+        <tag>azure, MCSA, MCSE</tag>
+         
+         
+           
+             
+              <breadCrumb title="Azure 533" url="http://azure-devops.com/categories/Azure-533/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://azure-devops.com/2017/08/01/Hello-World/</loc>
+    <lastmod>2017-08-11T03:16:52.016Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-08-01T07:28:56.000Z</pubTime>
+        
+        <tag>写作</tag>
+         
+         
+           
+             
+              <breadCrumb title="随感" url="http://azure-devops.com/categories/%E9%9A%8F%E6%84%9F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://azure-devops.com/2017/08/09/Azure-Stack-Series/</loc>
+    <lastmod>2017-08-10T02:27:00.941Z</lastmod>
+    <data>
+        <display>
+        <title>Azure Stack 深入浅出系列文章</title>
+        <pubTime>2017-08-09T06:28:36.000Z</pubTime>
+        
+        <tag>azure Stack</tag>
+         
+         
+           
+             
+              <breadCrumb title="Azure Stack深入浅出系列" url="http://azure-devops.com/categories/Azure-Stack%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%B3%BB%E5%88%97/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
